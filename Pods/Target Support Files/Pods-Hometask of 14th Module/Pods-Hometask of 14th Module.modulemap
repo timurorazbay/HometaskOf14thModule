@@ -1,0 +1,6 @@
+framework module Pods_Hometask_of_14th_Module {
+  umbrella header "Pods-Hometask of 14th Module-umbrella.h"
+
+  export *
+  module * { export * }
+}
